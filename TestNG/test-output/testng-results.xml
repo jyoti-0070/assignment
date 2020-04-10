@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35098" started-at="2020-04-10T07:48:47Z" finished-at="2020-04-10T07:49:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35098" started-at="2020-04-10T07:48:47Z" finished-at="2020-04-10T07:49:22Z">
+      <class name="Assignment.demoqa">
+        <test-method status="PASS" signature="SetDriver()[pri:0, instance:Assignment.demoqa@28d25987]" name="SetDriver" is-config="true" duration-ms="4966" started-at="2020-04-10T13:18:47Z" finished-at="2020-04-10T13:18:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetDriver -->
+        <test-method status="PASS" signature="selectable()[pri:1, instance:Assignment.demoqa@28d25987]" name="selectable" duration-ms="8642" started-at="2020-04-10T13:18:52Z" finished-at="2020-04-10T13:19:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectable -->
+        <test-method status="PASS" signature="contact_form()[pri:2, instance:Assignment.demoqa@28d25987]" name="contact_form" duration-ms="12294" started-at="2020-04-10T13:19:00Z" finished-at="2020-04-10T13:19:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact_form -->
+        <test-method status="PASS" signature="drag_drop()[pri:3, instance:Assignment.demoqa@28d25987]" name="drag_drop" duration-ms="1809" started-at="2020-04-10T13:19:13Z" finished-at="2020-04-10T13:19:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drag_drop -->
+        <test-method status="PASS" signature="DOB()[pri:4, instance:Assignment.demoqa@28d25987]" name="DOB" duration-ms="2064" started-at="2020-04-10T13:19:14Z" finished-at="2020-04-10T13:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DOB -->
+        <test-method status="PASS" signature="select_menu()[pri:5, instance:Assignment.demoqa@28d25987]" name="select_menu" duration-ms="2189" started-at="2020-04-10T13:19:16Z" finished-at="2020-04-10T13:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_menu -->
+        <test-method status="PASS" signature="Rental_Car()[pri:6, instance:Assignment.demoqa@28d25987]" name="Rental_Car" duration-ms="3037" started-at="2020-04-10T13:19:19Z" finished-at="2020-04-10T13:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Rental_Car -->
+        <test-method status="PASS" signature="closedriver()[pri:0, instance:Assignment.demoqa@28d25987]" name="closedriver" is-config="true" duration-ms="63" started-at="2020-04-10T13:19:22Z" finished-at="2020-04-10T13:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedriver -->
+      </class> <!-- Assignment.demoqa -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
